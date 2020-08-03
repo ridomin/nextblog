@@ -1,6 +1,6 @@
 ---
 title: DevOps for client apps
-date: 2018-03-21
+date: "2018-03-21"
 ---
 
 Since I started working in Visual Studio client I've been watching the DevOps practices, and wondering how to apply those to Client development.

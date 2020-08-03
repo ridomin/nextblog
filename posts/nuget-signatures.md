@@ -1,6 +1,6 @@
 ---
 title: NuGet signatures
-date: 2019-01-28
+date: "2019-01-28"
 ---
 
 2017 was the year where I focused on package signing for NuGet, resulting in several blog posts:

@@ -1,6 +1,6 @@
 ---
 title: NuGet CLI MSIX installer
-date: 2019-07-31
+date: "2019-07-31"
 ---
 
 Exploring different options to deploy *nuget.exe* I found useful to create an MSIX package available here:
